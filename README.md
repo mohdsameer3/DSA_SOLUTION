@@ -17,27 +17,6 @@
 
 ---
 
-## 🗂️ Repository Architecture
-
-```
-📦 DSA-Solutions/
-├── 📁 LeetCode/
-│   ├── 🔢 Arrays-and-Strings/
-│   ├── 🔗 Linked-Lists/
-│   ├── 🌳 Trees-and-Graphs/
-│   └── 💎 Dynamic-Programming/
-├── 📁 Codeforces/
-│   ├── 🏆 Contests/
-│   └── 📚 Practice/
-├── 📁 CSES/
-│   ├── 🎯 Introductory-Problems/
-│   └── 📈 Advanced-Topics/
-└── 📁 CodeChef/
-    ├── 🥉 Beginner/
-    └── 🥈 Intermediate/
-```
-
----
 
 ## 🎯 Problem Categories
 
