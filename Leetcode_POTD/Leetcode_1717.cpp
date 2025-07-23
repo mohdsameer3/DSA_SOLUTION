@@ -1,8 +1,4 @@
-#include <iostream>
-#include <string>
-#include <stack>
-#include <algorithm>
-
+#include<bts/stdc++.h>
 using namespace std;
 
 // Paste your Solution class here
